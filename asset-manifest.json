@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mulivender-Restaurant-Frontend/static/css/main.a4f732d6.css",
+    "main.js": "/mulivender-Restaurant-Frontend/static/js/main.7c4585f4.js",
+    "static/media/carousel_1.png": "/mulivender-Restaurant-Frontend/static/media/carousel_1.cc25c1a3a28dcbc36388.png",
+    "static/media/e_logo.png": "/mulivender-Restaurant-Frontend/static/media/e_logo.9ba682083f8788b69e10.png",
+    "static/media/star.png": "/mulivender-Restaurant-Frontend/static/media/star.8199a143596837aeb5b1.png",
+    "index.html": "/mulivender-Restaurant-Frontend/index.html",
+    "main.a4f732d6.css.map": "/mulivender-Restaurant-Frontend/static/css/main.a4f732d6.css.map",
+    "main.7c4585f4.js.map": "/mulivender-Restaurant-Frontend/static/js/main.7c4585f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4f732d6.css",
+    "static/js/main.7c4585f4.js"
+  ]
+}
